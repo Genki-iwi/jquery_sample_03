@@ -25,7 +25,7 @@ h1 {
   top: 2rem;
   left: 2rem;
   font-size: 1.25rem;
-  color: white;
+  color: #f0a500;
 }
 
 .navButton {
@@ -35,7 +35,7 @@ h1 {
 }
 
 .navButton a {
-  color: #FFF;
+  color: #f0a500;
   font-size: 1.25rem;
 }
 
@@ -54,14 +54,14 @@ nav {
 
 .menu li {
   height: 3rem;
-  border-bottom: solid 1px #AAA;
+  border-bottom: solid 1px #f4f4f4;
 }
 
 .menu a {
   display: block;
   padding: 0.75rem;
   text-align: center;
-  color: #FFF;
+  color: #f0a500;
 }
 
 .menu a:hover {
@@ -82,5 +82,5 @@ footer {
   padding: 1rem;
   text-align: center;
   font-size: 0.8rem;
-  color: white;
+  color: #f0a500;
 }
